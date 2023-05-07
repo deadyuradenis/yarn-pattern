@@ -1,0 +1,36 @@
+.button {
+
+	
+	&__icon, .icon{
+	
+	}
+
+	&__text {
+		
+	}
+
+
+	&:hover {
+		@media (hover:hover) {
+	
+		}
+	}
+
+
+
+	&[disabled] {
+	
+	}
+
+	&[disabled] &__text {
+		
+	}
+
+	&[disabled] &__icon {
+	
+	}
+
+
+
+}
+
